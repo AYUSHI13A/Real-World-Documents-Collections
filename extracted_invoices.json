@@ -1,0 +1,2163 @@
+[
+    {
+        "Invoice Number": "15222",
+        "Date": null,
+        "Amount": " 8",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "184290",
+        "Date": null,
+        "Amount": "\n0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "291978",
+        "Date": null,
+        "Amount": " 291",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "02000",
+        "Date": null,
+        "Amount": " 020",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 30",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "16056",
+        "Date": null,
+        "Amount": "79",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10019",
+        "Date": null,
+        "Amount": "666",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "717603",
+        "Date": null,
+        "Amount": "5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "8",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27384",
+        "Date": null,
+        "Amount": "482",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "17462",
+        "Date": null,
+        "Amount": " 174",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "682166736",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "324000",
+        "Date": null,
+        "Amount": " 15,198",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "41500",
+        "Date": null,
+        "Amount": "\n415",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "38395",
+        "Date": null,
+        "Amount": " 342",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "is SYS SHAS APC Sb aURH",
+                "Quantity": 8,
+                "Price": 127.01
+            }
+        ]
+    },
+    {
+        "Invoice Number": "35090",
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "40201",
+        "Date": null,
+        "Amount": " 21",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "40201",
+        "Date": null,
+        "Amount": " 11",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "07072",
+        "Date": null,
+        "Amount": "\n245",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "48202",
+        "Date": null,
+        "Amount": "\n180",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": "45",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "06904",
+        "Date": null,
+        "Amount": "70",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "48208",
+        "Date": null,
+        "Amount": " 720",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "08540",
+        "Date": null,
+        "Amount": "\n470",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "08849",
+        "Date": null,
+        "Amount": "\n470",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10847",
+        "Date": null,
+        "Amount": "\n254",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "015100",
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "62258",
+        "Date": null,
+        "Amount": "\n971",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "77200",
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10800",
+        "Date": null,
+        "Amount": " 10",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "25234",
+        "Date": null,
+        "Amount": " 252",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10360",
+        "Date": null,
+        "Amount": " 210",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10380",
+        "Date": null,
+        "Amount": "3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": null,
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "28295",
+        "Date": null,
+        "Amount": "\n65",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "07410",
+        "Date": null,
+        "Amount": " 201",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": "4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20768",
+        "Date": null,
+        "Amount": " 074",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 29",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20008",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20743",
+        "Date": null,
+        "Amount": "\n505",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20748",
+        "Date": null,
+        "Amount": "\n505",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": " 100",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 914",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": null,
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "613401",
+        "Date": null,
+        "Amount": " 100",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 37",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20008",
+        "Date": null,
+        "Amount": "\n098",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n200",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "1201805",
+        "Date": null,
+        "Amount": "\n12",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "07012",
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20027",
+        "Date": null,
+        "Amount": "\n55",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "37820",
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10022",
+        "Date": null,
+        "Amount": "22",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2001205675",
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "49917",
+        "Date": null,
+        "Amount": " 499",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2001207874",
+        "Date": null,
+        "Amount": "\n200",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10005",
+        "Date": null,
+        "Amount": "20",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "842729",
+        "Date": null,
+        "Amount": " 27",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "800464",
+        "Date": null,
+        "Amount": "200",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "26603",
+        "Date": null,
+        "Amount": " 736",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "23298",
+        "Date": null,
+        "Amount": " 3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": null,
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n120",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 178",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "154964",
+        "Date": null,
+        "Amount": "\n154",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "901149220330332",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "7208174",
+        "Date": null,
+        "Amount": " 8",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 464",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "027208584",
+        "Date": null,
+        "Amount": "\n490",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "84840",
+        "Date": null,
+        "Amount": "\n4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n198",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 101",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "300373",
+        "Date": null,
+        "Amount": " 473",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21067404",
+        "Date": null,
+        "Amount": "19",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n540",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "73504106",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "227175047",
+        "Date": null,
+        "Amount": "622",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2028708564",
+        "Date": null,
+        "Amount": " 5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "08321",
+        "Date": null,
+        "Amount": " 101",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "192208",
+        "Date": null,
+        "Amount": " 192",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "02203",
+        "Date": null,
+        "Amount": "022",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "64031",
+        "Date": null,
+        "Amount": "\n17",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "72061",
+        "Date": null,
+        "Amount": " 7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2028718888",
+        "Date": null,
+        "Amount": "202",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 536",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2028719939",
+        "Date": null,
+        "Amount": "95",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "$38",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 191",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "4110170",
+        "Date": null,
+        "Amount": " 49",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "115401",
+        "Date": null,
+        "Amount": " 115",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2028726558",
+        "Date": null,
+        "Amount": "202",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "801189",
+        "Date": null,
+        "Amount": " 801",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "81708",
+        "Date": null,
+        "Amount": "$6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "44396",
+        "Date": null,
+        "Amount": " 443",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2939010960",
+        "Date": null,
+        "Amount": "\n6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2028741476",
+        "Date": null,
+        "Amount": " 202",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "742452",
+        "Date": null,
+        "Amount": "6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "64031",
+        "Date": null,
+        "Amount": "1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "119367940",
+        "Date": null,
+        "Amount": "119",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "\n10",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "\n120",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "\n120",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "\n120",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27629",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "69063",
+        "Date": null,
+        "Amount": " 804",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "04500",
+        "Date": null,
+        "Amount": " 18",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2041619314",
+        "Date": null,
+        "Amount": "204",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11498",
+        "Date": null,
+        "Amount": " 8",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "soaup0RO LT",
+                "Quantity": 102,
+                "Price": 22.79
+            },
+            {
+                "Item": "anioRo LT",
+                "Quantity": 100,
+                "Price": 22.79
+            }
+        ]
+    },
+    {
+        "Invoice Number": "331213",
+        "Date": null,
+        "Amount": " 122",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "161564",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "190489",
+        "Date": null,
+        "Amount": "\n2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "0000000",
+        "Date": null,
+        "Amount": "5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "22408478",
+        "Date": null,
+        "Amount": "3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "06610",
+        "Date": null,
+        "Amount": "\n575",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "65211",
+        "Date": null,
+        "Amount": " 36",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 93",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "9602179185",
+        "Date": null,
+        "Amount": " 960",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": " 199",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "2185425",
+        "Date": null,
+        "Amount": " 25",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10038",
+        "Date": null,
+        "Amount": " 787",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "88500",
+        "Date": null,
+        "Amount": "\n885",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11947",
+        "Date": null,
+        "Amount": "22",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "935433",
+        "Date": null,
+        "Amount": "6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "01705786",
+        "Date": null,
+        "Amount": "017",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "24061",
+        "Date": null,
+        "Amount": " 240",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21060",
+        "Date": null,
+        "Amount": "3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20044",
+        "Date": null,
+        "Amount": "\n120",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "50424",
+        "Date": null,
+        "Amount": " 3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "9320008874",
+        "Date": null,
+        "Amount": "32",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "66736",
+        "Date": null,
+        "Amount": "317",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "4815270",
+        "Date": null,
+        "Amount": "\n3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "86512",
+        "Date": null,
+        "Amount": "865",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n271",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": "$956.83",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10297",
+        "Date": null,
+        "Amount": "102",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "00146",
+        "Date": null,
+        "Amount": " 10",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "33511",
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "115681",
+        "Date": null,
+        "Amount": " 3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10019",
+        "Date": null,
+        "Amount": " 100",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "15214",
+        "Date": null,
+        "Amount": "04",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "22901",
+        "Date": null,
+        "Amount": " 9.20",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "0061268",
+        "Date": null,
+        "Amount": " 006",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 12",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 008",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 04",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 00",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "51743168",
+        "Date": null,
+        "Amount": "8",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "6",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "FEB",
+                "Quantity": 19,
+                "Price": 908.12
+            }
+        ]
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 104",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "00",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 18",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21898",
+        "Date": null,
+        "Amount": " 218",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "901",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": "\n355",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20814",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "82201",
+        "Date": null,
+        "Amount": "272",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "608346",
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "88308111",
+        "Date": null,
+        "Amount": " 11",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "02205",
+        "Date": null,
+        "Amount": "022",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "60015",
+        "Date": null,
+        "Amount": "23",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "POT2 CELL BIOLOGY OF THE LNG antee",
+                "Quantity": 7,
+                "Price": 225.0
+            }
+        ]
+    },
+    {
+        "Invoice Number": "22101",
+        "Date": null,
+        "Amount": "49",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "40546",
+        "Date": null,
+        "Amount": " 405",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": "\n100",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10017",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20036",
+        "Date": null,
+        "Amount": "\n112",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "$10",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27102",
+        "Date": null,
+        "Amount": " 7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10021",
+        "Date": null,
+        "Amount": "410",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "62587",
+        "Date": null,
+        "Amount": " 107",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "86719133",
+        "Date": null,
+        "Amount": "1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "50627",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "0128999",
+        "Date": null,
+        "Amount": " 012",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": null,
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "3825293",
+        "Date": null,
+        "Amount": "400",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "93042",
+        "Date": null,
+        "Amount": " 6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "233315",
+        "Date": null,
+        "Amount": " 233",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27102",
+        "Date": null,
+        "Amount": "\n9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27102",
+        "Date": null,
+        "Amount": "00",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27302",
+        "Date": null,
+        "Amount": " 0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "6172516333",
+        "Date": null,
+        "Amount": "1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "536808",
+        "Date": null,
+        "Amount": "96",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27102",
+        "Date": null,
+        "Amount": " 294",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "91301",
+        "Date": null,
+        "Amount": "$536",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "176078",
+        "Date": null,
+        "Amount": " 176",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20738",
+        "Date": null,
+        "Amount": " 207",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20748",
+        "Date": null,
+        "Amount": "\n505",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20312",
+        "Date": null,
+        "Amount": "\n5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "511114",
+        "Date": null,
+        "Amount": " 511",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": "\n104",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "4000100",
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11432",
+        "Date": null,
+        "Amount": "\n184",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "80703850",
+        "Date": null,
+        "Amount": "807",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "80704008",
+        "Date": null,
+        "Amount": "3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10019",
+        "Date": null,
+        "Amount": " 23",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "15206",
+        "Date": null,
+        "Amount": "\n656",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n141",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "79875",
+        "Date": null,
+        "Amount": "129.10",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "Edward Machtutan Economist",
+                "Quantity": 1,
+                "Price": 20.0
+            }
+        ]
+    },
+    {
+        "Invoice Number": "98121",
+        "Date": null,
+        "Amount": " 02",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "701956",
+        "Date": null,
+        "Amount": "85",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10010",
+        "Date": null,
+        "Amount": "\n002",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10128",
+        "Date": null,
+        "Amount": " 476",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": "\n236",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10529",
+        "Date": null,
+        "Amount": " 0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "87052618",
+        "Date": null,
+        "Amount": "870",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "87084415",
+        "Date": null,
+        "Amount": "870",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10257",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20257",
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11729",
+        "Date": null,
+        "Amount": "516",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "87066913",
+        "Date": null,
+        "Amount": " 19",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20795",
+        "Date": null,
+        "Amount": "469",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": "703",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": "301",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": "2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": " 199",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": "\n3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "88131634",
+        "Date": null,
+        "Amount": " 0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 69",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": null,
+        "Date": null,
+        "Amount": " 4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20090",
+        "Date": null,
+        "Amount": "5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": " 420",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "032070005",
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "032070005",
+                "Quantity": 1617,
+                "Price": 8338.33
+            }
+        ]
+    },
+    {
+        "Invoice Number": "22700",
+        "Date": null,
+        "Amount": " 227",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27420",
+        "Date": null,
+        "Amount": "200",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "77140",
+        "Date": null,
+        "Amount": " 210",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "0543000",
+        "Date": null,
+        "Amount": "1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "21688",
+        "Date": null,
+        "Amount": "\n420",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "17031",
+        "Date": null,
+        "Amount": " 170",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20738",
+        "Date": null,
+        "Amount": " 207",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20748",
+        "Date": null,
+        "Amount": "\n505",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10019",
+        "Date": null,
+        "Amount": "1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "985031200",
+        "Date": null,
+        "Amount": " 985",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "91307149",
+        "Date": null,
+        "Amount": "913",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95350",
+        "Date": null,
+        "Amount": " 953",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "1413934",
+        "Date": null,
+        "Amount": "201",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "91515217",
+        "Date": null,
+        "Amount": " 9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "91515307",
+        "Date": null,
+        "Amount": "861",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "9158363",
+        "Date": null,
+        "Amount": "915",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "0228875",
+        "Date": null,
+        "Amount": "9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10103",
+        "Date": null,
+        "Amount": " 150",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "60605",
+        "Date": null,
+        "Amount": "\n4.82",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "92896017",
+        "Date": null,
+        "Amount": " 671",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "704951650",
+        "Date": null,
+        "Amount": "\n1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "00089",
+        "Date": null,
+        "Amount": "510",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "91814706",
+        "Date": null,
+        "Amount": "918",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "019157",
+        "Date": null,
+        "Amount": "\n019",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11747",
+        "Date": null,
+        "Amount": "7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10102",
+        "Date": null,
+        "Amount": "\n959",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "20670",
+        "Date": null,
+        "Amount": " 104",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11729",
+        "Date": null,
+        "Amount": "177",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "38246",
+        "Date": null,
+        "Amount": " 467",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10022",
+        "Date": null,
+        "Amount": " 800",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "626000",
+        "Date": null,
+        "Amount": "8",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "60605",
+        "Date": null,
+        "Amount": "\n2",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "27612",
+        "Date": null,
+        "Amount": " 7",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": " 100",
+        "Vendor": null,
+        "Items": [
+            {
+                "Item": "00390 2 130",
+                "Quantity": 24000089,
+                "Price": 40.04
+            }
+        ]
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": "0",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "24280",
+        "Date": null,
+        "Amount": "\n10",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "75249",
+        "Date": null,
+        "Amount": "970",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "01101",
+        "Date": null,
+        "Amount": " 793",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95602385",
+        "Date": null,
+        "Amount": "956",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95602471",
+        "Date": null,
+        "Amount": "956",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95824354",
+        "Date": null,
+        "Amount": "958",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95824400",
+        "Date": null,
+        "Amount": "958",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95824806",
+        "Date": null,
+        "Amount": "958",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95824802",
+        "Date": null,
+        "Amount": "958",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "95824834",
+        "Date": null,
+        "Amount": "958",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "90322033",
+        "Date": null,
+        "Amount": "97",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "39622",
+        "Date": null,
+        "Amount": "3",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10016",
+        "Date": null,
+        "Amount": "\n6",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10022",
+        "Date": null,
+        "Amount": "\n4",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "56544",
+        "Date": null,
+        "Amount": "565",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11207",
+        "Date": null,
+        "Amount": "\n194",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "22181",
+        "Date": null,
+        "Amount": "671",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "11207",
+        "Date": null,
+        "Amount": " 112",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "37830",
+        "Date": null,
+        "Amount": "747",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "40209",
+        "Date": null,
+        "Amount": " 5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "1051781",
+        "Date": null,
+        "Amount": " 105",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "94501",
+        "Date": null,
+        "Amount": " 5",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "10378",
+        "Date": null,
+        "Amount": "103",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "15689",
+        "Date": null,
+        "Amount": "156",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "14808",
+        "Date": null,
+        "Amount": "148",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "39205",
+        "Date": null,
+        "Amount": " 20",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "98104",
+        "Date": null,
+        "Amount": " 981",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "38851",
+        "Date": null,
+        "Amount": " 9",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "87103",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "29761",
+        "Date": null,
+        "Amount": "\n535",
+        "Vendor": null,
+        "Items": []
+    },
+    {
+        "Invoice Number": "7102083",
+        "Date": null,
+        "Amount": " 1",
+        "Vendor": null,
+        "Items": []
+    }
+]
